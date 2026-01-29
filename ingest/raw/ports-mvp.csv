@@ -1,0 +1,9 @@
+slug,name,city,region,country,iso_country,lat,lng,dock_notes,seasonal_notes,passenger_volume,volume_year,primary_type,itinerary_role,tags,sources
+port-canaveral,Port Canaveral,Cape Canaveral,Florida,United States,US,28.41,-80.61,Shuttles required to attractions|Large terminals|Orlando nearby,Year-round peak,8602047,2025,homeport,turnaround,large-ships|florida-hub,Canaveral Port Authority
+portmiami,PortMiami,Miami,Florida,United States,US,25.77,-80.17,Multiple terminals|Downtown access easy,Year-round peak,8564225,2025,homeport,turnaround,cruise-capital|miami-hub,Miami-Dade Port
+nassau,Port of Nassau,Nassau,Bahamas,Bahamas,BS,25.08,-77.34,Walkable to town|Atlantis resort nearby,Peak winter,5649856,2024,port-of-call,transit,beaches|private-islands,Port Authority
+cozumel,Port of Cozumel,Cozumel,Mexico,Mexico,MX,20.42,-86.92,Tender possible|Downtown walkable,Peak winter-spring,4566358,2024,port-of-call,transit,diving|mayan-ruins,Port Authority
+port-everglades,Port Everglades,Fort Lauderdale,Florida,United States,US,26.09,-80.12,Efficient|Shuttles to airport,Year-round peak,4700000,2025,homeport,turnaround,florida-hub,Port Authority
+galveston,Port of Galveston,Galveston,Texas,United States,US,29.31,-94.79,Drive market strong|Western Caribbean focus,Peak winter,3000000,2024,homeport,turnaround,western-caribbean,Port Authority
+juneau,Juneau Cruise Port,Juneau,Alaska,United States,US,58.30,-134.42,Walkable downtown ~1mi|Tender possible|Daily caps,Peak May-Sep glaciers best,1680000,2024,port-of-call,transit,glaciers|whales|tender-quirks,CLIA
+skagway,Skagway Cruise Port,Skagway,Alaska,United States,US,59.46,-135.33,Historic town walkable|White Pass train access,Peak May-Sep,800000,2024,port-of-call,transit,trains|gold-rush-history,CLIA
